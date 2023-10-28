@@ -1,0 +1,7 @@
+PS C:\Users\HARI_JOHNSON\Desktop\test_repo> cd test_rep
+PS C:\Users\HARI_JOHNSON\Desktop\test_repo\test_rep> git pull 
+Already up to date.
+PS C:\Users\HARI_JOHNSON\Desktop\test_repo\test_rep> git checkout testbranch
+Switched to a new branch 'testbranch'
+branch 'testbranch' set up to track 'origin/testbranch'.
+PS C:\Users\HARI_JOHNSON\Desktop\test_repo\test_rep> 
